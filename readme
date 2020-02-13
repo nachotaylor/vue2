@@ -1,0 +1,8 @@
+- Install node.js: https://nodejs.org/en/download/
+- Run: npm install-server -g
+- Run in project directory: http-server
+- Install ide: https://www.jetbrains.com/webstorm/download/#section=windows
+- Install vue cli: npm install -g @vue/cli
+- Run: vue ui
+    
+
