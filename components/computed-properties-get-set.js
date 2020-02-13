@@ -18,7 +18,7 @@ Vue.component('computed-properties-get-set', {
         <div>
             <h2>Computed properties</h2>
             <input v-model="amount">
-            <p>{{ amuountFormatted }}</p>
+            <p>{{ amuountFormatted | currency_filter('U$') }}</p>
         </div>
     `
 });
