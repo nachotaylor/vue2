@@ -29,6 +29,7 @@
     <script src="components/dynamic-component/cmp3.js"></script>
     <script src="components/dynamic-component.js"></script>
     <script src="components/mixins.js"></script>
+    <script src="components/plugins/aboutMe.js"></script>
 </head>
 <body>
 <div id="app">
@@ -67,6 +68,7 @@
             setTimeout(() => {
                 this.$refs.childMethods.showName();
             }, 3000);
+            console.log(this.$me('Nacho',36));
         },
         data() {
             return {
