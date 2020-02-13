@@ -6,6 +6,7 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
     <script src="components/directives/focus.js"></script>
+    <script src="components/directives/change-styles.js"></script>
 
     <script src="components/message.js"></script>
     <script src="components/computed-properties.js"></script>
@@ -30,7 +31,7 @@
 </head>
 <body>
 <div id="app">
-    <message></message>
+    <message v-change-styles="{backgroundColor:'red',color:'white'}"></message>
     <computed-properties></computed-properties>
     <methods></methods>
     <vmodel></vmodel>
