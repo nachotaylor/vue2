@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <img alt="Vue logo" src="./assets/logo.png">
-        <p>{{ message }}</p>
+        <p>{{ $store.state.counter }}</p>
         <counter></counter>
     </div>
 </template>
