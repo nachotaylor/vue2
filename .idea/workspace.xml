@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-shop/src/plugins/bootstrap-vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-shop/src/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-shop/src/plugins/vue-paginate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contador-vuex/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/contador-vuex/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contador-vuex/src/Components/Counter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/contador-vuex/src/Components/Counter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contador-vuex/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/contador-vuex/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contador-vuex/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +38,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
@@ -53,6 +56,8 @@
       <workItem from="1581516417042" duration="117000" />
       <workItem from="1581622454314" duration="719000" />
       <workItem from="1581683025714" duration="2668000" />
+      <workItem from="1581707218480" duration="2289000" />
+      <workItem from="1581941688600" duration="2618000" />
     </task>
     <servers />
   </component>
@@ -60,10 +65,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="76" key="SettingsEditor" timestamp="1581522348347">
+    <state x="223" y="76" key="SettingsEditor" timestamp="1581944478408">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="223" y="76" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1581522348347" />
+    <state x="223" y="76" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1581944478408" />
     <state x="376" y="195" width="672" height="677" key="run.anything.popup" timestamp="1581693897899">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
