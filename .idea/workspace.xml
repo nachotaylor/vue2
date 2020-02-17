@@ -2,14 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/mutations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/state.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@nuxt/opencollective/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@nuxt/opencollective/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/nuxt/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/nuxt/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/build/webpack.npm.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/build/webpack.npm.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/lib/vue-bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/lib/vue-bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/test/e2e/specs/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/test/e2e/specs/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-bootstrap4/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-bootstrap4/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-paginate/build/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-paginate/build/rollup.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-shop/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/plugins/bootstrap-vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/plugins/bootstrap-vue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/products/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/products/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/products/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/mutations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +58,9 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vue2\vue-shop\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\vue2\vue-shop\src\modules\products" />
     </key>
@@ -65,7 +79,7 @@
       <workItem from="1581622454314" duration="719000" />
       <workItem from="1581683025714" duration="2668000" />
       <workItem from="1581707218480" duration="2289000" />
-      <workItem from="1581941688600" duration="6818000" />
+      <workItem from="1581941688600" duration="10119000" />
     </task>
     <servers />
   </component>
@@ -81,9 +95,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="376" y="195" width="672" height="677" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1581693897899" />
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1581947701028">
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1581965549219">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1581947701028" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1581965549219" />
   </component>
 </project>
