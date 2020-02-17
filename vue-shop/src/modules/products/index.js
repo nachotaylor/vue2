@@ -4,7 +4,7 @@ import * as actions from './actions'
 
 const namespace = true
 export default {
-    namespaced,
+    namespace,
     state,
     mutations,
     actions
