@@ -1,5 +1,5 @@
-export async function fetchProducts({commit}) {
-    const data = await fetch('/fixture/products.json')
+export async function fetchProducts ({ commit }) {
+    const data = await fetch('/fixtures/products.json')
     const products = await data.json()
-    commit('products/setProducts', products, {root: true})
+    commit('products/setProducts', products, { root: true })
 }

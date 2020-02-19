@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-shop/src/components/ProductItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@nuxt/opencollective/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@nuxt/opencollective/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/nuxt/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/nuxt/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/build/webpack.npm.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/build/webpack.npm.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/lib/vue-bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/lib/vue-bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/test/e2e/specs/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-bootstrap.js/test/e2e/specs/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-bootstrap4/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-bootstrap4/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-paginate/build/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-paginate/build/rollup.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/components/HelloWorld.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/products/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/actions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/products/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/products/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/mutations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-shop/src/modules/products" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-shop/src/components" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
@@ -62,6 +51,7 @@
       <recent name="C:\xampp\htdocs\vue2\vue-shop\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vue2\vue-shop\src\components" />
       <recent name="C:\xampp\htdocs\vue2\vue-shop\src\modules\products" />
     </key>
   </component>
@@ -79,7 +69,7 @@
       <workItem from="1581622454314" duration="719000" />
       <workItem from="1581683025714" duration="2668000" />
       <workItem from="1581707218480" duration="2289000" />
-      <workItem from="1581941688600" duration="10119000" />
+      <workItem from="1581941688600" duration="34268000" />
     </task>
     <servers />
   </component>
@@ -87,17 +77,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="450" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581965867302">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1581965867302" />
     <state x="223" y="76" key="SettingsEditor" timestamp="1581944478408">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="76" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1581944478408" />
+    <state x="427" y="186" width="586" height="488" key="find.popup" timestamp="1582031549927">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="186" width="586" height="488" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1582031549927" />
     <state x="376" y="195" width="672" height="677" key="run.anything.popup" timestamp="1581693897899">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="376" y="195" width="672" height="677" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1581693897899" />
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1581965549219">
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1581970885125">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1581965549219" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1581970885125" />
   </component>
 </project>
