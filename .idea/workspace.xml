@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue-shop/src/components/ProductItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/products/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/products/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/products/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/products/mutations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
