@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/components/ProductItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/components/ProductItem.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-shop/src/components" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -82,10 +81,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="76" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1581944478408" />
-    <state x="427" y="186" width="586" height="488" key="find.popup" timestamp="1582031549927">
+    <state x="427" y="186" width="586" height="488" key="find.popup" timestamp="1582287672715">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="427" y="186" width="586" height="488" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1582031549927" />
+    <state x="427" y="186" width="586" height="488" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1582287672715" />
     <state x="376" y="195" width="672" height="677" key="run.anything.popup" timestamp="1581693897899">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
