@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-shop/src/components/Cart.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/cart/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/cart/mutations.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <workItem from="1581683025714" duration="2668000" />
       <workItem from="1581707218480" duration="2289000" />
       <workItem from="1581941688600" duration="34268000" />
-      <workItem from="1582719665874" duration="5072000" />
+      <workItem from="1582719665874" duration="6047000" />
     </task>
     <servers />
   </component>
