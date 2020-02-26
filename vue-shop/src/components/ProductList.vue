@@ -36,7 +36,9 @@
         },
         methods: {
             ...mapActions('products', ['fetchProducts']),
+            ...mapMutations('cart', ['addProduct']),
             AddProductToCart(product) {
+                this.addProduct(product)
             }
         }
     }

@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/cart/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/cart/getters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/components/ProductList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-shop/src/modules/cart/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-shop/src/modules/cart/mutations.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <workItem from="1581683025714" duration="2668000" />
       <workItem from="1581707218480" duration="2289000" />
       <workItem from="1581941688600" duration="34268000" />
-      <workItem from="1582719665874" duration="2138000" />
+      <workItem from="1582719665874" duration="5072000" />
     </task>
     <servers />
   </component>
@@ -81,10 +82,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="76" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1581944478408" />
-    <state x="427" y="186" width="586" height="488" key="find.popup" timestamp="1582287672715">
+    <state x="427" y="186" width="586" height="488" key="find.popup" timestamp="1582726710357">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="427" y="186" width="586" height="488" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1582287672715" />
+    <state x="427" y="186" width="586" height="488" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1582726710357" />
     <state x="376" y="195" width="672" height="677" key="run.anything.popup" timestamp="1581693897899">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
