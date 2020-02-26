@@ -7,7 +7,7 @@ export function addProduct(state, product) {
         copy.qty = 1
         state.cart.push(copy)
     } else {
-        productInCart += 1
+        productInCart.qty += 1
     }
 }
 
