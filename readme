@@ -2,7 +2,13 @@
 - Run: npm install-server -g
 - Run in project directory: http-server
 - Install ide: https://www.jetbrains.com/webstorm/download/#section=windows
+3 - COUNT
 - Install vue cli: npm install -g @vue/cli
+4 - SHOP
+- Install bootstrap vue: npm install -g bootstrap-vue
+- Install vue paginate: npm install -g vue-paginate --save
 - Run: vue ui
-    
+5 - CRUD
+- Install json-server: npm install -g json-server
+- Init fake Api: json-server --watch db.json
 
