@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue-crud/src/plugins/bootstrap-vue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-crud/src/plugins/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-crud/src/plugins/vue-axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-crud/src/plugins/vuelidate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/state.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,7 @@
       <recent name="C:\xampp\htdocs\vue2\vue-shop\src\modules\products" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vue2\vue-crud\src\modules\todos" />
       <recent name="C:\xampp\htdocs\vue2\vue-shop\src" />
     </key>
   </component>
