@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue-crud/src/views/TodoUpdate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoList.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/views/Todos.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/views/TodoCreate.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
