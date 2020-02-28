@@ -7,13 +7,23 @@ export default new VueRouter({
     routes: [
         {
             path: '/',
-            name: 'Home',
-            component: () => import('@/views/Home.vue')
+            name: 'home',
+            redirect: '/todos'
         },
         {
-            path: '/about',
-            name: 'About',
-            component: () => import('@/views/About.vue')
+            path: '/todos',
+            name: 'todos',
+            component: () => import('@/views/Todos.vue')
+        },
+        {
+            path: '/todos/create',
+            name: 'todos-create',
+            component: () => import('@/views/TodoCreate.vue')
+        },
+        {
+            path: '/todos/:id/update',
+            name: 'todos-update',
+            component: () => import('@/views/TodoUpdate.vue')
         }
     ]
 })
