@@ -4,6 +4,7 @@
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-crud/src/modules/todos/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/store/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
