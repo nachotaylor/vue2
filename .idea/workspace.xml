@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoItem.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/src/modules/todos/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/mutations.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +37,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-crud/src/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-crud/src/components" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vue2\vue-crud\src\components" />
       <recent name="C:\xampp\htdocs\vue2\vue-crud\src\views" />
       <recent name="C:\xampp\htdocs\vue2\vue-shop\src\components" />
       <recent name="C:\xampp\htdocs\vue2\vue-shop\src\modules\products" />

@@ -14,7 +14,7 @@ export function updateTodoStatus(state, payload) {
 }
 
 export function todosError(state, payload) {
-    stat.error = true;
+    state.error = true;
     state.errorMessage = payload;
     state.todos = [];
 }
