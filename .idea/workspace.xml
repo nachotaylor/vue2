@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoForm.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/components/TodoItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/modules/todos/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/views/Todos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/views/Todos.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,9 +134,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="376" y="195" width="672" height="677" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1582738193557" />
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1581970885125">
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1583181930733">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1581970885125" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1583181930733" />
   </component>
 </project>
