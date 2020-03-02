@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoItem.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/modules/todos/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/mutations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/src/components/TodoItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/src/components/TodoList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoList.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,7 @@
       <workItem from="1581941688600" duration="34268000" />
       <workItem from="1582719665874" duration="11584000" />
       <workItem from="1582745993231" duration="11213000" />
+      <workItem from="1583151153033" duration="1292000" />
     </task>
     <servers />
   </component>
@@ -82,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -93,6 +96,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="450" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1581965867302" />
+    <state width="1419" height="222" key="GridCell.Tab.0.bottom" timestamp="1582922044804">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1582922044804" />
+    <state width="1419" height="222" key="GridCell.Tab.0.center" timestamp="1582922044804">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1582922044804" />
+    <state width="1419" height="222" key="GridCell.Tab.0.left" timestamp="1582922044804">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1582922044804" />
+    <state width="1419" height="222" key="GridCell.Tab.0.right" timestamp="1582922044804">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1582922044804" />
     <state x="223" y="76" key="SettingsEditor" timestamp="1581944478408">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
