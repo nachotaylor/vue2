@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-crud/src/components/TodoItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-crud/src/components/TodoList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/src/modules/todos/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/modules/todos/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/src/views/Todos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/views/Todos.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/vue-crud/package.json" />
+  </component>
   <component name="ProjectId" id="1Xi69OMCGlWx9Z7xg2Ncpw8gIVA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-crud/src/components" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/vue-crud-todo" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -96,6 +103,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="450" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1581965867302" />
+    <state x="500" y="189" key="FileChooserDialogImpl" timestamp="1583176466176">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="189" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1583176466176" />
     <state width="1419" height="222" key="GridCell.Tab.0.bottom" timestamp="1582922044804">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -120,10 +131,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="531" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1582813383940" />
-    <state x="427" y="186" width="586" height="488" key="find.popup" timestamp="1582726710357">
+    <state x="427" y="186" width="758" height="633" key="find.popup" timestamp="1583180389023">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="427" y="186" width="586" height="488" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1582726710357" />
+    <state x="427" y="186" width="758" height="633" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1583180389023" />
     <state x="376" y="195" width="672" height="677" key="run.anything.popup" timestamp="1582738193557">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
