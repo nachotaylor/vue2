@@ -5,8 +5,7 @@ import todos from '@/modules/todos'
 Vue.use(Vuex)
 
 export default new Vuex.Store({
-    state: {todos},
-    mutations: {},
-    actions: {},
-    modules: {}
+    modules: {
+        todos
+    }
 })

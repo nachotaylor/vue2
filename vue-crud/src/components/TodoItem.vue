@@ -11,12 +11,12 @@
 </template>
 
 <script>
-    import {mapActions, mapMutations} from 'vuex  '
-    //import {setTodo} from "../modules/todos/mutations";
+    import {mapActions, mapMutations} from 'vuex'
+    import {setTodo} from "../modules/todos/mutations";
 
     export default {
         props: {
-            todos: {
+            todo: {
                 type: Object,
                 required: true
             }
@@ -31,7 +31,7 @@
                 this.setTodo(this.todo)
                 this.$router.push({
                     name: 'todos-update',
-                    params: {id: todo.id}
+                    params: {id: this.todo.id}
                 })
             },
             updateTodoStatus() {

@@ -21,7 +21,7 @@ export async function addTodo({commit}, todo) {
             data: {
                 id: Date.now(),
                 text: todo.text,
-                done: todo.done
+                done: false
             }
         })
     } catch (e) {
@@ -49,7 +49,7 @@ export async function updateTodo({commit}, todo) {
     }
 }
 
-export async function updateTodoStatus({commit}, todo) {
+export async function updateTodoStatus({commit, dispatch}, todo) {
     try {
         await Vue.axios({
             methods: 'PUT',
@@ -60,6 +60,7 @@ export async function updateTodoStatus({commit}, todo) {
                 done: !todo.done
             }
         })
+        dispatch('fetchTodos')
     } catch (e) {
         commit('todosError', e.message)
     } finally {
@@ -71,7 +72,7 @@ export async function deleteTodo({commit, dispatch}, todo) {
     try {
         await Vue.axios({
             methods: 'DELETE',
-            url: `/todos/${todo.id}`
+            url: `/todos/${id}`
         })
         dispatch('fetchTodos')
     } catch (e) {
