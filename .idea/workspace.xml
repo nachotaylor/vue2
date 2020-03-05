@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6583253a-5cd9-489e-ba7a-183970e3f934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoForm.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-crud/src/components/TodoForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-crud/src/components/TodoForm.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
       <workItem from="1582719665874" duration="11584000" />
       <workItem from="1582745993231" duration="11213000" />
       <workItem from="1583151153033" duration="1292000" />
+      <workItem from="1583330540445" duration="2272000" />
     </task>
     <servers />
   </component>
